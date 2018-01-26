@@ -5,7 +5,7 @@ if __name__ == "__main__":
     #访问网址
     url = 'http://www.whatismyip.com.tw/'
     #这是代理IP
-    proxy = {'http':'125.210.121.113:3128'}
+    proxy = {'http':'122.114.31.177:808'}
     #创建ProxyHandler
     proxy_support = request.ProxyHandler(proxy)
     #创建Opener
